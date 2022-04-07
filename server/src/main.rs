@@ -36,5 +36,5 @@ async fn main() {
 }
 
 async fn hello() -> impl IntoResponse {
-    "hello from server!"
+    "Hello from Ferris, I am stuck somewhere here on the webserver!"
 }
